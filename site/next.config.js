@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'INFOCUS Technologies',
     description: 'The official INFOCUS Servers.',
-    icon: '/img/logo.svg',
+    icon: '/img/blue-logo.png',
     listUrl: 'https://infocus-groups.github.io',
     contactUrl: 'https://kasmweb.com/support',
   },
