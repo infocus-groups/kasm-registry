@@ -116,7 +116,7 @@ export default function New({ workspace }) {
   const customStyles = {
     control: (base, state) => ({
       ...base,
-      background: "#ffffff",
+      background: "#f1f5f9",
       borderRadius: '0.5rem',
       borderColor: "#94a3b8"
     }),
