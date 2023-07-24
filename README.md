@@ -2,6 +2,8 @@
   <br>
   <img width="70%" src="https://s3.us-west-1.wasabisys.com/infocus-assets/infocus-opensource-kasm.png">
   <br>
+  <br>
+  <br>
   INFOCUS Workspaces Registry
   <br>
 </h1>
