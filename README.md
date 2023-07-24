@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img width="70%" src="https://s3.us-west-1.wasabisys.com/infocus-assets/INFOCUS-GITHUB-LOGO.png">
+  <img width="70%" src="https://s3.us-west-1.wasabisys.com/infocus-assets/infocus-opensource-kasm.png">
   <br>
   INFOCUS Workspaces Registry
   <br>
