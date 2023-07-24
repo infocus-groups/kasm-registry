@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'INFOCUS Technologies',
     description: 'The official INFOCUS Servers.',
     icon: 'https://infocus-groups.github.io/kasm-registry/1.0/blue-logo.png',
-    listUrl: 'https://infocus-groups.github.io/kasm-registry/1.0/',
+    listUrl: 'https://infocus-groups.github.io/kasm-registry/1.0/icons/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
