@@ -1,5 +1,5 @@
 {
-  "description": "Github Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.",
+  "description": "Github Desktopppp is an open source Electron-based GitHub app. It is written in TypeScript and uses React.",
   "docker_registry": "https://ghcr.io/",
   "image_src": "github-desktop.png",
   "name": "lscr.io/linuxserver/github-desktop:latest",
